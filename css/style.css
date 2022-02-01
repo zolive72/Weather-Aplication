@@ -1,0 +1,25 @@
+body {
+  background: hsl(220, 5%, 32%);
+}
+
+.container {
+  max-width: 400px;
+}
+
+h1 {
+  font-size: 2.2rem;
+  color: hsl(45, 100%, 51%);
+}
+
+label {
+  font-size: 1.2rem;
+  color: white
+}
+
+.time-icon {
+position: relative;
+top: -180px;
+border-radius: 50%;
+width: 100px;
+margin-bottom: -50px;
+}
